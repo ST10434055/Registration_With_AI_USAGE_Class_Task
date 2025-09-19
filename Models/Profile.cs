@@ -2,10 +2,9 @@
 {
     public class Profile
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public string Email { get; set; }
-        public string Age { get; set; }
-
+        public string Name { get; set; } = string.Empty;
+        public string Surname { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string Age { get; set; } = string.Empty;
     }
 }

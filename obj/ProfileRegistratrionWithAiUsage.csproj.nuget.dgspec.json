@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\ProfileRegistratrionWithAiUsage.csproj": {}
+    "C:\\Users\\pharm\\OneDrive\\Desktop\\Projects\\University\\CLDV_XTR\\Registration_With_AI_USAGE_Class_Task\\ProfileRegistratrionWithAiUsage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\ProfileRegistratrionWithAiUsage.csproj": {
+    "C:\\Users\\pharm\\OneDrive\\Desktop\\Projects\\University\\CLDV_XTR\\Registration_With_AI_USAGE_Class_Task\\ProfileRegistratrionWithAiUsage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\ProfileRegistratrionWithAiUsage.csproj",
+        "projectUniqueName": "C:\\Users\\pharm\\OneDrive\\Desktop\\Projects\\University\\CLDV_XTR\\Registration_With_AI_USAGE_Class_Task\\ProfileRegistratrionWithAiUsage.csproj",
         "projectName": "ProfileRegistratrionWithAiUsage",
-        "projectPath": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\ProfileRegistratrionWithAiUsage.csproj",
-        "packagesPath": "C:\\Users\\xvrde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\obj\\",
+        "projectPath": "C:\\Users\\pharm\\OneDrive\\Desktop\\Projects\\University\\CLDV_XTR\\Registration_With_AI_USAGE_Class_Task\\ProfileRegistratrionWithAiUsage.csproj",
+        "packagesPath": "C:\\Users\\pharm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pharm\\OneDrive\\Desktop\\Projects\\University\\CLDV_XTR\\Registration_With_AI_USAGE_Class_Task\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xvrde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pharm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +43,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Azure.Data.Tables": {
+              "target": "Package",
+              "version": "[12.8.3, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzureTables": "DefaultEndpointsProtocol=https;AccountName=cldvregister;AccountKey=0efKCeig5pGbajHs959mV0ADcgDrWb5ehOP+QZjaho39nK4lDWsJupoqpPKbmtoD8lJCfoXH6/Gu+ASt6rDZFw==;EndpointSuffix=core.windows.net"
+  }
+}

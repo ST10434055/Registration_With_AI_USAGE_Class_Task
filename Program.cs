@@ -1,7 +1,15 @@
+using Microsoft.Extensions.Azure;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add Azure Table Storage
+builder.Services.AddAzureClients(clientBuilder =>
+{
+    clientBuilder.AddTableServiceClient(builder.Configuration.GetConnectionString("AzureTables"));
+});
 
 var app = builder.Build();
 
@@ -24,6 +32,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
-
 
 app.Run();

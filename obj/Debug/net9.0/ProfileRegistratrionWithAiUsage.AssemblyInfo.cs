@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProfileRegistratrionWithAiUsage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92646bdc02c2be15a2420fe057409ffdbaf62519")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProfileRegistratrionWithAiUsage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProfileRegistratrionWithAiUsage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -95,3 +95,4 @@ C:\Users\xvrde\source\repos\ProfileRegistratrionWithAiUsage\obj\Debug\net9.0\ref
 C:\Users\xvrde\source\repos\ProfileRegistratrionWithAiUsage\obj\Debug\net9.0\ProfileRegistratrionWithAiUsage.pdb
 C:\Users\xvrde\source\repos\ProfileRegistratrionWithAiUsage\obj\Debug\net9.0\ProfileRegistratrionWithAiUsage.genruntimeconfig.cache
 C:\Users\xvrde\source\repos\ProfileRegistratrionWithAiUsage\obj\Debug\net9.0\ref\ProfileRegistratrionWithAiUsage.dll
+C:\Users\xvrde\source\repos\ProfileRegistratrionWithAiUsage\obj\Debug\net9.0\ProfileRegistratrionWithAiUsage.sourcelink.json

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\aideclaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|solutionrelative:aideclaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|solutionrelative:views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|solutionrelative:models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|c:\\users\\xvrde\\source\\repos\\profileregistratrionwithaiusage\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1F9109-AF32-4F8B-8CE7-8E4177408A7A}|ProfileRegistratrionWithAiUsage.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,32 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T15:35:18.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIDECLARATION.cs",
+              "DocumentMoniker": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\AIDECLARATION.cs",
+              "RelativeDocumentMoniker": "AIDECLARATION.cs",
+              "ToolTip": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\AIDECLARATION.cs",
+              "RelativeToolTip": "AIDECLARATION.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:32:31.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-19T14:52:16.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Views\\Profile\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Profile\\Index.cshtml",
               "ToolTip": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Views\\Profile\\Index.cshtml",
               "RelativeToolTip": "Views\\Profile\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAADhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-19T14:50:59.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
@@ -69,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Profile.cs",
               "DocumentMoniker": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Models\\Profile.cs",
               "RelativeDocumentMoniker": "Models\\Profile.cs",
               "ToolTip": "C:\\Users\\xvrde\\source\\repos\\ProfileRegistratrionWithAiUsage\\Models\\Profile.cs",
               "RelativeToolTip": "Models\\Profile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T14:44:22.979Z",
               "EditorCaption": ""
